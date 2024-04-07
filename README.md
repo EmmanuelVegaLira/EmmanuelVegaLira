@@ -23,7 +23,7 @@
 
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills and Tools:
-[![My Skills](https://skillicons.dev/icons?i=aws,git,github,githubactions,jenkins,kubernetes,docker,linux,bash,mysql,nginx,postgres,postman,powershell,sqlite,ubuntu,windows,apple,html,css,js,jquery,nodejs,py,vscode,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,git,github,githubactions,jenkins,kubernetes,docker,linux,bash,mysql,nginx,postgres,postman,powershell,sqlite,ubuntu,windows,apple,html,css,js,jquery,nodejs,py,vscode,&perline=5)](https://skillicons.dev)
 
 
 ##
